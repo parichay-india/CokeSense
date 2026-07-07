@@ -6,7 +6,7 @@ after reaction) with a **rolling conformal** uncertainty band, evaluated on a
 decade of daily records (1,251 rows, Dec 2012 - Mar 2023) from an operating
 integrated steel plant and served from a 37 KB model in about a millisecond.
 
-Live dashboard: https://cokequalitybsl.streamlit.app/
+Live dashboard: https://cokesense.streamlit.app/
 
 > **Double-blind notice.** The accompanying paper is under anonymous review
 > at ICDCN 2027. Keep this repository **private** until the camera-ready
